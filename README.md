@@ -3,7 +3,7 @@
 - Course: CUS-1156 Software Design Methods
 - Contributors: Adnan Gashi & Aidin Dzaferovic
 
-##📌 **Overview**
+#📌 **Overview**
 
 A console-based inventory management system built for the St. John’s University campus store to replace outdated manual tracking methods. Developed using Java with a focus on usability, role-based access, and efficient inventory processing.
 
