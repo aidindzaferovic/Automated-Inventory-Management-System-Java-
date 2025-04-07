@@ -3,11 +3,11 @@ Java | Fall 2024 | St. John’s University
 Course: CUS-1156 Software Design Methods
 Contributors: Adnan Gashi & Aidin Dzaferovic
 
-#📌 Overview
+📌 Overview
 
 A console-based inventory management system built for the St. John’s University campus store to replace outdated manual tracking methods. Developed using Java with a focus on usability, role-based access, and efficient inventory processing.
 
-#💡 Key Features
+💡 Key Features
 
 - Secure Login – ID/password authentication with separate employee and manager roles
 
@@ -17,13 +17,13 @@ A console-based inventory management system built for the St. John’s Universit
 
 - User-Friendly Interface – Console-driven menus with clear prompts and error handling
 
-#🔐 Sample Credentials
+🔐 Sample Credentials
 
 - Manager: ID 1 | Password manager
 
 - Employee: ID 1234 | Password password
 
-#🧰 Technologies
+🧰 Technologies
 
 - Java
 
