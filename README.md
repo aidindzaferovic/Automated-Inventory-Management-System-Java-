@@ -1,29 +1,33 @@
-Automated Inventory Management System
-Java | Fall 2024 | St. John’s University
-Course: CUS-1156 Software Design Methods
-Contributors: Adnan Gashi & Aidin Dzaferovic
+# Automated Inventory Management System
+**Java | Fall 2024 | St. John’s University
+**Course: CUS-1156 Software Design Methods
+**Contributors: Adnan Gashi & Aidin Dzaferovic
 
-📌 Overview
+##📌 Overview
+
 A console-based inventory management system built for the St. John’s University campus store to replace outdated manual tracking methods. Developed using Java with a focus on usability, role-based access, and efficient inventory processing.
 
-💡 Key Features
-Secure Login – ID/password authentication with separate employee and manager roles
+##💡 Key Features
 
-Stock Management – View, search, and filter inventory with live updates
+- **Secure Login – ID/password authentication with separate employee and manager roles
 
-Order System – Employees can request items; managers approve or deny orders
+- **Stock Management – View, search, and filter inventory with live updates
 
-User-Friendly Interface – Console-driven menus with clear prompts and error handling
+- **Order System – Employees can request items; managers approve or deny orders
 
-🔐 Sample Credentials
-Manager: ID 1 | Password manager
+- **User-Friendly Interface – Console-driven menus with clear prompts and error handling
 
-Employee: ID 1234 | Password password
+##🔐 Sample Credentials
 
-🧰 Technologies
-Java
+- **Manager: ID 1 | Password manager
 
-UML (Class & Sequence Diagrams)
+- **Employee: ID 1234 | Password password
 
-Bitbucket for version control
+##🧰 Technologies
+
+- Java
+
+- UML (Class & Sequence Diagrams)
+
+- Bitbucket for version control
 
