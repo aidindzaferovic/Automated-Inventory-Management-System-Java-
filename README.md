@@ -19,9 +19,9 @@ A console-based inventory management system built for the St. John’s Universit
 
 🔐 Sample Credentials
 
-- Manager: ID 1 | Password manager
+- Manager: ID 1 | Password: manager
 
-- Employee: ID 1234 | Password password
+- Employee: ID 1234 | Password: password
 
 🧰 Technologies
 
