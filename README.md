@@ -1,7 +1,7 @@
 # Automated Inventory Management System
-Java | Fall 2024 | St. John’s University
-Course: CUS-1156 Software Design Methods
-Contributors: Adnan Gashi & Aidin Dzaferovic
+- Java | Fall 2024 | St. John’s University
+- Course: CUS-1156 Software Design Methods
+- Contributors: Adnan Gashi & Aidin Dzaferovic
 
 📌 Overview
 
