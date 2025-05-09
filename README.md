@@ -7,6 +7,8 @@
 
 A console-based inventory management system built for the St. John’s University campus store to replace outdated manual tracking methods. Developed using Java with a focus on usability, role-based access, and efficient inventory processing.
 
+> ⚠️ *Note: This project was developed for educational purposes only and is not affiliated with or used by the actual St. John’s University campus store.*
+
 ## 💡 **Key Features**
 
 - **Secure Login** – ID/password authentication with separate employee and manager roles
